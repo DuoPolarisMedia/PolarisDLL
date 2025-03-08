@@ -1,36 +1,45 @@
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_33.dll" --output D3DCompiler_33.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_34.dll" --output D3DCompiler_34.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_35.dll" --output D3DCompiler_35.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_36.dll" --output D3DCompiler_36.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_37.dll" --output D3DCompiler_37.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_38.dll" --output D3DCompiler_38.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_39.dll" --output D3DCompiler_39.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_40.dll" --output D3DCompiler_40.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_41.dll" --output D3DCompiler_41.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_42.dll" --output D3DCompiler_42.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_43.dll" --output D3DCompiler_43.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_44.dll" --output D3DCompiler_44.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dcompiler_47.dll" --output d3dcompiler_47.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dcsx_42.dll" --output d3dcsx_42.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dcsx_43.dll" --output d3dcsx_43.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dscache.dll" --output d3dscache.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_24.dll" --output D3DX9_24.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_25.dll" --output d3dx9_25.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_26.dll" --output d3dx9_26.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_27.dll" --output d3dx9_27.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_28.dll" --output d3dx9_28.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_29.dll" --output d3dx9_29.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_30.dll" --output d3dx9_30.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_31.dll" --output d3dx9_31.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_32.dll" --output d3dx9_32.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_33.dll" --output d3dx9_33.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_34.dll" --output d3dx9_34.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_35.dll" --output d3dx9_35.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_36.dll" --output d3dx9_36.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_37.dll" --output d3dx9_37.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_38.dll" --output d3dx9_38.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_39.dll" --output d3dx9_39.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_40.dll" --output d3dx9_40.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_41.dll" --output d3dx9_41.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_42.dll" --output d3dx9_42.dll
-curl "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dx9_43.dll" --output d3dx9_43.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_33.dll" --output D3DCompiler_33.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_34.dll" --output D3DCompiler_34.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_35.dll" --output D3DCompiler_35.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_36.dll" --output D3DCompiler_36.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_37.dll" --output D3DCompiler_37.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_38.dll" --output D3DCompiler_38.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_39.dll" --output D3DCompiler_39.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_40.dll" --output D3DCompiler_40.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_41.dll" --output D3DCompiler_41.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_42.dll" --output D3DCompiler_42.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_43.dll" --output D3DCompiler_43.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DCompiler_44.dll" --output D3DCompiler_44.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dcompiler_47.dll" --output d3dcompiler_47.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dcsx_42.dll" --output d3dcsx_42.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dcsx_43.dll" --output d3dcsx_43.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/d3dscache.dll" --output d3dscache.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_24.dll" --output D3DX9_24.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_25.dll" --output D3DX9_25.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_26.dll" --output D3DX9_26.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_27.dll" --output D3DX9_27.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_28.dll" --output D3DX9_28.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_29.dll" --output D3DX9_29.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_30.dll" --output D3DX9_30.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_31.dll" --output D3DX9_31.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_32.dll" --output D3DX9_32.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_33.dll" --output D3DX9_33.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_34.dll" --output D3DX9_34.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_35.dll" --output D3DX9_35.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_36.dll" --output D3DX9_36.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_37.dll" --output D3DX9_37.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_38.dll" --output D3DX9_38.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_39.dll" --output D3DX9_39.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_40.dll" --output D3DX9_40.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_41.dll" --output D3DX9_41.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_42.dll" --output D3DX9_42.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/D3DX9_43.dll" --output D3DX9_43.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/X3DAudio1_7.dll" --output X3DAudio1_7.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/XAPOFX1_5.dll" --output XAPOFX1_5.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/xinput1_1.dll" --output xinput1_1.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/xinput1_2.dll" --output xinput1_2.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/xinput1_3.dll" --output xinput1_3.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/xinput1_4.dll" --output xinput1_4.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/xinput9_1_0.dll" --output xinput9_1_0.dll
+curl -o "%USERPROFILE%/Desktop" "https://zephyrgddp.github.io/DLLlib/dlls/dx9/xinputuap.dll" --output xinputuap.dll
+pause
