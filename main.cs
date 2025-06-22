@@ -13,12 +13,12 @@ public class DllInstaller : Form
 
     private readonly string[] _urls =
     {
-        "https://zephyrgddp.github.io/PolarisDLL/dlls/dx9.zip",
-        "https://zephyrgddp.github.io/PolarisDLL/dlls/dx11.zip",
-        "https://zephyrgddp.github.io/PolarisDLL/dlls/dx12.zip",
-        "https://zephyrgddp.github.io/PolarisDLL/dlls/vcredist.zip",
-        "https://zephyrgddp.github.io/PolarisDLL/dlls/msxna.zip",
-        "https://zephyrgddp.github.io/PolarisDLL/dlls/windowskernel.zip",
+        "https://duopolarismedia.github.io/PolarisDLL/dlls/dx9.zip",
+        "https://duopolarismedia.github.io/PolarisDLL/dlls/dx11.zip",
+        "https://duopolarismedia.github.io/PolarisDLL/dlls/dx12.zip",
+        "https://duopolarismedia.github.io/PolarisDLL/dlls/vcredist.zip",
+        "https://duopolarismedia.github.io/PolarisDLL/dlls/msxna.zip",
+        "https://duopolarismedia.github.io/PolarisDLL/dlls/windowskernel.zip",
         "https://dotnetcli.azureedge.net/dotnet/Runtime/9.0.6/dotnet-runtime-9.0.6-win-x64.zip"
     };
 
