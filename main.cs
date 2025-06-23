@@ -4,6 +4,8 @@ using System.Net;
 using System.Windows.Forms;
 using System.Net.Security;
 using System.Runtime.InteropServices;
+using System.Drawing;
+
 
 public class DllInstaller : Form
 {
@@ -41,6 +43,17 @@ public class DllInstaller : Form
         Width = 420;
         Height = 220;
         StartPosition = FormStartPosition.CenterScreen;
+
+        // Set a custom icon for the window
+        try
+        {
+            Icon = new Icon("icon.ico");
+        }
+        catch
+        {
+            Icon = SystemIcons.Application;
+        }
+
 
         Label label = new Label();
         label.Text = "Select a library to install:";
